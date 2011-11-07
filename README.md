@@ -1,29 +1,24 @@
-# Bootstrap.scss #
+# Sassy Bootstrap #
 
-Bootstrap is Twitter's toolkit for kickstarting CSS for websites, apps, and more. It includes base CSS styles for typography, forms, buttons, tables, grids, navigation, alerts, and more.
+Sassy Bootstrap is a Sass-based fork of Bootstrap, Twitter's toolkit for kickstarting CSS for websites, apps, and more. It includes base CSS styles for typography, forms, buttons, tables, grids, navigation, alerts, and more.
 
-This particular version of Bootstrap includes a port to SCSS by [Rhys Powell][rpowell].
-
-[rpowell]: http://rpowell.me/
-
-To get started -- checkout http://twitter.github.com/bootstrap!
+To get started -- check out http://frogbot.github.com/sassy-bootstrap/
 
 
 ## Usage ##
 
-You can use Twitter Bootstrap in one of three ways: just drop the compiled CSS into any new project and start cranking, run LESS on your site and compile on the fly like a boss.
+You can use Twitter Bootstrap in one of two ways: just drop the compiled CSS into any new project and start cranking or by editing and compiling the included Sass source.
 
-Here's what the LESS version looks like:
-
-``` html
-<link rel="stylesheet/less" type="text/css" href="lib/less/bootstrap.less">
-<script src="less.js" type="text/javascript"></script>
-```
-
-Or if you prefer, the standard css way:
+Here's what the CSS version looks like:
 
 ``` html
 <link rel="stylesheet" type="text/css" href="bootstrap.css">
+```
+
+or if you want to work with the Sass styles, simply run the following command when you're done with your edits:
+
+``` bash
+sass path/to/bootstrap.sass > bootstrap.css
 ```
 
 For more info, refer to the docs!
@@ -50,7 +45,7 @@ For more information on SemVer, please visit http://semver.org/.
 
 Have a bug? Please create an issue here on GitHub!
 
-https://github.com/FrogBot/bootstrap/issues
+https://github.com/FrogBot/sassy-bootstrap/issues
 
 
 ## Twitter account ##
