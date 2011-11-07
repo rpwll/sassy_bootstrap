@@ -1,4 +1,4 @@
-# Bootstrap.sass #
+# Bootstrap.scss #
 
 Bootstrap is Twitter's toolkit for kickstarting CSS for websites, apps, and more. It includes base CSS styles for typography, forms, buttons, tables, grids, navigation, alerts, and more.
 
