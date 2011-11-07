@@ -3,3 +3,4 @@
 thumbs.db
 lib/scss/*.css
 lib/scss/.sass-cache/
+.sass-cache/
