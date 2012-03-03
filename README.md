@@ -1,9 +1,12 @@
+---
+
+**Note:** This repository is no longer actively maintained, if you're looking for a good port of Bootstrap I suggest you check out the excellent [bootstrap-sass](https://github.com/thomas-mcdonald/bootstrap-sass) instead.
+
+---
+
 # Sassy Bootstrap #
 
 Sassy Bootstrap is a Sass-based fork of Bootstrap, Twitter's toolkit for kickstarting CSS for websites, apps, and more. It includes base CSS styles for typography, forms, buttons, tables, grids, navigation, alerts, and more.
-
-To get started -- check out http://frogbot.github.com/sassy-bootstrap/
-
 
 ## Usage ##
 
